@@ -1,6 +1,6 @@
 ---
 
-title: "EXECUTIVE SUMMARY”
+title: “EXECUTIVE SUMMARY”
 
 date: 2019-07-05
 
